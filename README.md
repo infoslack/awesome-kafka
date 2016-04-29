@@ -8,9 +8,9 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 Table of Contents
 =================
 
-    * [Articles](#articles)
-    * [Books](#books)
-    * [Talks](#talks)
+   * [Articles](#articles)
+   * [Books](#books)
+   * [Talks](#talks)
 
 ## Articles
 
