@@ -67,3 +67,4 @@ Table of Contents
    * https://github.com/Microsoft/Availability-Monitor-for-Kafka
    * https://github.com/linkedin/Burrow
    * https://github.com/splee/burrower
+   * https://github.com/yahoo/kafka-manager
