@@ -13,6 +13,7 @@ Table of Contents
    * [Papers](#papers)
    * [Presentations](#presentations)
    * [Talks](#talks)
+   * [Tools](#tools)
 
 ## Articles
 
@@ -27,6 +28,8 @@ Table of Contents
    * https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/ - Monitoring Kafka performance metrics
    * http://oobaloo.co.uk/kafka-for-uswitchs-event-pipeline - Kafka for uSwitch's Event Pipeline
    * http://blog.infochimps.com/2012/10/30/next-gen-real-time-streaming-storm-kafka-integration/ - Next Gen Real-time Streaming with Storm-Kafka Integration
+   * http://techblog.netflix.com/search/label/kafka - all netflix tech blog kafka tagged articles
+   * https://engineering.linkedin.com/blog/topic/kafka - all linked in tech blog kafka tagged articlesEEEEE
 
 ## Books
 
@@ -59,3 +62,9 @@ Table of Contents
    * https://www.youtube.com/watch?v=aJuo_bLSW6s - I ♥ Logs: Apache Kafka and Real-Time Data Integration
    * https://www.youtube.com/watch?v=InAKDEk7H0M - Apache Kafka: Real-time Streaming and Data Pipelines with Apache Kafka by Joe Stein
    * https://vimeo.com/63040812 - AJUG - Apache Kafka - Chris Curtin
+
+## Tools
+   * https://github.com/Microsoft/Availability-Monitor-for-Kafka
+   * https://github.com/linkedin/Burrow
+   * https://github.com/splee/burrower
+   * https://github.com/yahoo/kafka-manager
