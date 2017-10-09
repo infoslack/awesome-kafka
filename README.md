@@ -62,6 +62,7 @@ Table of Contents
    * https://www.youtube.com/watch?v=aJuo_bLSW6s - I ♥ Logs: Apache Kafka and Real-Time Data Integration
    * https://www.youtube.com/watch?v=InAKDEk7H0M - Apache Kafka: Real-time Streaming and Data Pipelines with Apache Kafka by Joe Stein
    * https://vimeo.com/63040812 - AJUG - Apache Kafka - Chris Curtin
+   * https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON - Getting started guide on Apache Kafka by Learning Journal
 
 ## Tools
    * https://github.com/Microsoft/Availability-Monitor-for-Kafka
