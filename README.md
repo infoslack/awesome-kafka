@@ -36,6 +36,7 @@ Table of Contents
    * http://www.confluent.io/making-sense-of-stream-processing-ebook - Making sense of stream processing
    * http://shop.oreilly.com/product/0636920032175.do - Designing Data-Intensive Applications
 
+   * https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf - Kafka: The Definitive Guide
 ## Papers
 
    * http://www.vldb.org/pvldb/vol8/p1654-wang.pdf - Building a Replicated Logging System with Apache Kafka
