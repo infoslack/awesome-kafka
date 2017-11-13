@@ -10,6 +10,7 @@ Table of Contents
 
    * [Articles](#articles)
    * [Books](#books)
+   * [Online Courses](#courses)
    * [Papers](#papers)
    * [Presentations](#presentations)
    * [Talks](#talks)
@@ -30,13 +31,23 @@ Table of Contents
    * http://blog.infochimps.com/2012/10/30/next-gen-real-time-streaming-storm-kafka-integration/ - Next Gen Real-time Streaming with Storm-Kafka Integration
    * http://techblog.netflix.com/search/label/kafka - all netflix tech blog kafka tagged articles
    * https://engineering.linkedin.com/blog/topic/kafka - all linked in tech blog kafka tagged articlesEEEEE
-
+   * https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85 - How to use Apache Kafka to transform a batch pipeline into a real-time one
+   
 ## Books
 
    * http://www.confluent.io/making-sense-of-stream-processing-ebook - Making sense of stream processing
    * http://shop.oreilly.com/product/0636920032175.do - Designing Data-Intensive Applications
 
    * https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf - Kafka: The Definitive Guide
+   
+## Courses
+
+   * [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](https://goo.gl/lo7b3Y) - All Level
+   * [Udemy Apache Kafka Series - Kafka Connect Hands-on Learning](https://goo.gl/wFm4SE) - Intermediate
+   * [Udemy Apache Kafka Series - Kafka Streams for Data Processing](https://goo.gl/9AXYNQ) - Intermediate
+   * [Udemy Apache Kafka Series - Kafka Cluster Setup & Administration](https://goo.gl/zjS4sw) - Expert
+
+
 ## Papers
 
    * http://www.vldb.org/pvldb/vol8/p1654-wang.pdf - Building a Replicated Logging System with Apache Kafka
