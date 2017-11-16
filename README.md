@@ -39,6 +39,8 @@ Table of Contents
    * http://shop.oreilly.com/product/0636920032175.do - Designing Data-Intensive Applications
 
    * https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf - Kafka: The Definitive Guide
+   * https://www.manning.com/books/kafka-in-action - A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
+   * https://www.manning.com/books/kafka-streams-in-action - By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.
    
 ## Courses
 
