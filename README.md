@@ -44,11 +44,11 @@ Table of Contents
    
 ## Courses
 
-   * [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](https://goo.gl/lo7b3Y) - All Level
-   * [Udemy Apache Kafka Series - Kafka Connect Hands-on Learning](https://goo.gl/wFm4SE) - Intermediate
-   * [Udemy Apache Kafka Series - Kafka Streams for Data Processing](https://goo.gl/9AXYNQ) - Intermediate
-   * [Udemy Apache Kafka Series - Kafka Cluster Setup & Administration](https://goo.gl/zjS4sw) - Expert
-
+   * [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](https://goo.gl/GaCKQN) - All Level
+   * [Udemy Apache Kafka Series - Kafka Connect Hands-on Learning](https://goo.gl/wLLLY9) - Intermediate
+   * [Udemy Apache Kafka Series - Kafka Streams for Data Processing](https://goo.gl/bro314) - Intermediate
+   * [Udemy Apache Kafka Series - Kafka Cluster Setup & Administration](https://goo.gl/1uYAuU) - Expert
+   * [Udemy Apache Kafka Series - Confluent Schema Registry & REST Proxy](https://goo.gl/XgWcVz) - Intermediate
 
 ## Papers
 
