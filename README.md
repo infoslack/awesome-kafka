@@ -32,6 +32,7 @@ Table of Contents
    * http://techblog.netflix.com/search/label/kafka - all netflix tech blog kafka tagged articles
    * https://engineering.linkedin.com/blog/topic/kafka - all linked in tech blog kafka tagged articlesEEEEE
    * https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85 - How to use Apache Kafka to transform a batch pipeline into a real-time one
+   * https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome - Event Sourcing: What it is and why it's awesome
    
 ## Books
 
