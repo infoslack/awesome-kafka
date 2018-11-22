@@ -84,4 +84,5 @@ Table of Contents
    * https://github.com/linkedin/Burrow
    * https://github.com/splee/burrower
    * https://github.com/yahoo/kafka-manager
+   * https://github.com/SourceLabOrg/kafka-webview
    * http://www.kafkatool.com/
