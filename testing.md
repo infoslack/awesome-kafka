@@ -1,0 +1,7 @@
+* [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
+* [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
+* [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
+* [Kafka JUnit](https://github.com/salesforce/kafka-junit)
+* [Kafka Unit](https://github.com/chbatey/kafka-unit)
+* [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
+* [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
