@@ -17,6 +17,7 @@ Table of Contents
    
 ## Requests for Help/TODO
  
+ - Create a section for resources that will help to quickstart learning for kafka and kafka streams
  - Merge in repo: https://github.com/semantalytics/awesome-kafka
  - Find Example projects with kafka
  - Fix formatting on links in learning.md
