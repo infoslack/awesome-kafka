@@ -1,3 +1,19 @@
+Table of Contents
+=================
+
+  * [Monitoring](#monitoring)
+  * [Utility](#utility)
+  * [Deployment Resources](#deployment-resources)
+  * [Dashboards](#dashboards)
+  * [Mirroring](#mirroring)
+  * [Schema](#schema)
+  * [Management](#management)
+  * [Security](#security)
+     * [Audit](#audit)
+  * [Archival](#archival)
+  * [Integrations](#integrations)
+  * [Administration](#administration)
+  * [Load Testing/Performance](#load-testingperformance)
 
 ## Monitoring 
   * [Availablity Monitor](https://github.com/Microsoft/Availability-Monitor-for-Kafka)
