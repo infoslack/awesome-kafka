@@ -18,11 +18,11 @@ Table of Contents
    
 ## Requests for Help/TODO
  
+ - Learning: Organize articles into tutorials, case studies, product related, reference, etc
  - Create a section for resources that will help to quickstart learning for kafka and kafka streams
  - Add about sections per each page.
  - Merge in repo: https://github.com/semantalytics/awesome-kafka
  - Find Example projects with kafka
- - Fix formatting on links in learning.md
  - Organize learning.md by the types/subsystem that they are using
  - Add section headers
  - Find blogs that are dedicated to Kafka
