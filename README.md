@@ -17,6 +17,8 @@ Table of Contents
    
 ## Requests for Help/TODO
  
+ - Merge in repo: https://github.com/semantalytics/awesome-kafka
+ - Find Example projects with kafka
  - Fix formatting on links in learning.md
  - Organize learning.md by the types/subsystem that they are using
  - Add section headers
