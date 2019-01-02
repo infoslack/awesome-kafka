@@ -84,6 +84,7 @@ Table of Contents
    * https://github.com/linkedin/Burrow
    * https://github.com/splee/burrower
    * https://github.com/yahoo/kafka-manager
+   * https://github.com/tchiotludo/kafkahq
    * https://github.com/SourceLabOrg/kafka-webview
    * http://www.kafkatool.com/
    * [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
