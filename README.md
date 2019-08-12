@@ -89,3 +89,4 @@ Table of Contents
    * https://github.com/SourceLabOrg/kafka-webview
    * http://www.kafkatool.com/
    * [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
+   * [kafkacat](https://github.com/edenhill/kafkacat) Generic CLI non-JVM Apache Kafka producer and consumer
