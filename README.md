@@ -91,3 +91,4 @@ Table of Contents
    * [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes and OpenShift
    * [kafkacat](https://github.com/edenhill/kafkacat) Generic CLI non-JVM Apache Kafka producer and consumer
    * [connectctl](https://github.com/90poe/connectctl) Manage kafka connect connectors easily
+   * [Kafdrop](https://github.com/obsidiandynamics/kafdrop) Web UI for browsing Kafka topics and consumer groups
