@@ -35,6 +35,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85 - How to use Apache Kafka to transform a batch pipeline into a real-time one
 - https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome - Event Sourcing: What it is and why it's awesome
 - https://www.confluent.io/blog/getting-started-with-rust-and-kafka - Using Kafka with Rust
+- https://medium.com/@gayathrisiva8608/apache-kafka-is-a-distributed-streaming-system-that-can-publish-and-subscribe-a-stream-of-records-12af92e2d491 - Apache Kafka-Intro
 
 ## Books
 
