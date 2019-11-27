@@ -18,7 +18,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 
 ## Articles
 
-- http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/ - Apache Kafka for Beginners
+- [http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/](https://web.archive.org/web/20190212174120/https://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/) - Apache Kafka for Beginners
 - http://sysadvent.blogspot.com.br/2014/12/day-4-introduction-to-kafka.html - Introduction to Kafka
 - https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181 - Understanding Kafka with Factorio
 - http://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple - Introducing Kafka Streams: Stream Processing Made Simple
@@ -29,8 +29,8 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - http://www.confluent.io/blog/how-we-monitor-and-run-kafka-at-scale-signalfx - How We Monitor and Run Kafka At Scale
 - https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/ - Monitoring Kafka performance metrics
 - http://oobaloo.co.uk/kafka-for-uswitchs-event-pipeline - Kafka for uSwitch's Event Pipeline
-- http://blog.infochimps.com/2012/10/30/next-gen-real-time-streaming-storm-kafka-integration/ - Next Gen Real-time Streaming with Storm-Kafka Integration
-- http://techblog.netflix.com/search/label/kafka - all netflix tech blog kafka tagged articles
+- [http://blog.infochimps.com/2012/10/30/next-gen-real-time-streaming-storm-kafka-integration/](https://web.archive.org/web/20160321163106/http://blog.infochimps.com/2012/10/30/next-gen-real-time-streaming-storm-kafka-integration/) - Next Gen Real-time Streaming with Storm-Kafka Integration
+- https://medium.com/netflix-techblog/search?q=kafka - all netflix tech blog kafka tagged articles
 - https://engineering.linkedin.com/blog/topic/kafka - all linked in tech blog kafka tagged articlesEEEEE
 - https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85 - How to use Apache Kafka to transform a batch pipeline into a real-time one
 - https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome - Event Sourcing: What it is and why it's awesome
