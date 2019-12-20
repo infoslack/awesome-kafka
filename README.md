@@ -20,7 +20,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 
 - [http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/](https://web.archive.org/web/20190212174120/https://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/) - Apache Kafka for Beginners
 - http://sysadvent.blogspot.com.br/2014/12/day-4-introduction-to-kafka.html - Introduction to Kafka
-- https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181 - Understanding Kafka with Factorio
+- https://medium.com/@ruurtjan/understanding-kafka-with-factorio-74e8fc9bf181 - Understanding Kafka with Factorio
 - http://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple - Introducing Kafka Streams: Stream Processing Made Simple
 - http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data - Apache Kafka, Samza, and the Unix Philosophy of Distributed Data
 - http://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/ - Using logs to build a solid data infrastructure (or: why dual writes are a bad idea)
