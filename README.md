@@ -36,6 +36,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome - Event Sourcing: What it is and why it's awesome
 - https://www.confluent.io/blog/getting-started-with-rust-and-kafka - Using Kafka with Rust
 - https://medium.com/@gayathrisiva8608/apache-kafka-is-a-distributed-streaming-system-that-can-publish-and-subscribe-a-stream-of-records-12af92e2d491 - Apache Kafka-Intro
+- https://www.loginradius.com/engineering/blog/stream-processing-using-kafka/ - Introduction to Stream Processing using Kafka Streams
 
 ## Books
 
