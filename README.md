@@ -96,3 +96,4 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [kafkacat](https://github.com/edenhill/kafkacat) Generic CLI non-JVM Apache Kafka producer and consumer
 - [connectctl](https://github.com/90poe/connectctl) Manage kafka connect connectors easily
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) Web UI for browsing Kafka topics and consumer groups
+- [Kokpit](https://github.com/daneshzaki/kokpit)Basic Kafka client that does publish subscribe and runs as a Windows application
