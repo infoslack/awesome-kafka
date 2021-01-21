@@ -22,6 +22,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - http://sysadvent.blogspot.com.br/2014/12/day-4-introduction-to-kafka.html - Introduction to Kafka
 - https://medium.com/@ruurtjan/understanding-kafka-with-factorio-74e8fc9bf181 - Understanding Kafka with Factorio
 - http://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple - Introducing Kafka Streams: Stream Processing Made Simple
+- https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb - Apache Kafka in a Nutshell
 - http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data - Apache Kafka, Samza, and the Unix Philosophy of Distributed Data
 - http://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/ - Using logs to build a solid data infrastructure (or: why dual writes are a bad idea)
 - http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/ - Bottled Water: Real-time integration of PostgreSQL and Kafka
@@ -42,7 +43,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 
 - http://www.confluent.io/making-sense-of-stream-processing-ebook - Making sense of stream processing
 - http://shop.oreilly.com/product/0636920032175.do - Designing Data-Intensive Applications
-
+- http://apachekafkabook.com/ - Effective Kafka - A Hands-On Guide to Building Robust and Scalable Event-Driven Applications
 - https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf - Kafka: The Definitive Guide
 - https://www.manning.com/books/kafka-in-action - A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 - https://www.manning.com/books/kafka-streams-in-action - By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.
