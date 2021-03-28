@@ -101,3 +101,4 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) Web UI for browsing Kafka topics and consumer groups
 - [Kokpit](https://github.com/daneshzaki/kokpit)Basic Kafka client that does publish subscribe and runs as a Windows application
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) A CLI for Strimzi Kafka Operator
+- [Kowl](https://github.com/cloudhut/kowl) A modern Kafka WebUI written in Go & React
