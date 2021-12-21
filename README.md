@@ -47,7 +47,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf - Kafka: The Definitive Guide
 - https://www.manning.com/books/kafka-in-action - A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 - https://www.manning.com/books/kafka-streams-in-action - By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.
-- https://www.manning.com/books/event-streaming-with-kafka-streams-and-ksqldb - The book that teaches you to implement stream processing within the Kafka platform.
+- https://www.manning.com/books/kafka-streams-in-action-second-edition - The book that teaches you to implement stream processing within the Kafka platform.
 
 ## Courses
 
@@ -84,6 +84,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - https://www.youtube.com/watch?v=InAKDEk7H0M - Apache Kafka: Real-time Streaming and Data Pipelines with Apache Kafka by Joe Stein
 - https://vimeo.com/63040812 - AJUG - Apache Kafka - Chris Curtin
 - https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON - Getting started guide on Apache Kafka by Learning Journal
+- https://youtu.be/qoeuufklgUE - the basics of what a KStream, KTable, and GlobalKTable
 
 ## Tools
 - [Firehose](https://github.com/odpf/firehose) - Firehose is an extensible, no-code, and cloud-native service to load real-time streaming data from Kafka to data stores, data lakes, and analytical storage systems.
