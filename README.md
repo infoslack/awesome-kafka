@@ -109,3 +109,4 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Kokpit](https://github.com/daneshzaki/kokpit)Basic Kafka client that does publish subscribe and runs as a Windows application
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) A CLI for Strimzi Kafka Operator
 - [Kowl](https://github.com/cloudhut/kowl) A modern Kafka WebUI written in Go & React
+- [UI for Apache Kafka](https://github.com/provectus/kafka-ui) A modern Kafka WebUI written in Java & React
