@@ -110,3 +110,4 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) A CLI for Strimzi Kafka Operator
 - [Kowl](https://github.com/cloudhut/kowl) A modern Kafka WebUI written in Go & React
 - [UI for Apache Kafka](https://github.com/provectus/kafka-ui) A modern Kafka WebUI written in Java & React
+- [Franz](https://franz.defn.io) A native macOS GUI client for Kafka
