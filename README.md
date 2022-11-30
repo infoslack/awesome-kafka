@@ -15,6 +15,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Presentations](#presentations)
 - [Talks](#talks)
 - [Tools](#tools)
+- [Docker Compose](#docker-compose)
 
 ## Articles
 
@@ -111,3 +112,6 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Kowl](https://github.com/cloudhut/kowl) A modern Kafka WebUI written in Go & React
 - [UI for Apache Kafka](https://github.com/provectus/kafka-ui) A modern Kafka WebUI written in Java & React
 - [Franz](https://franz.defn.io) A native macOS GUI client for Kafka
+
+## Docker Compose
+- [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose
