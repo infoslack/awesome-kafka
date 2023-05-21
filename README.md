@@ -39,6 +39,15 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - https://www.confluent.io/blog/getting-started-with-rust-and-kafka - Using Kafka with Rust
 - https://medium.com/@gayathrisiva8608/apache-kafka-is-a-distributed-streaming-system-that-can-publish-and-subscribe-a-stream-of-records-12af92e2d491 - Apache Kafka-Intro
 - https://www.loginradius.com/engineering/blog/stream-processing-using-kafka/ - Introduction to Stream Processing using Kafka Streams
+- https://jaehyeon.me/blog/2022-03-07-schema-registry-part1/ - Use External Schema Registry With MSK Connect – Part 1 Local Development
+- https://jaehyeon.me/blog/2022-04-03-schema-registry-part2/ - Use External Schema Registry With MSK Connect – Part 2 MSK Deployment
+- https://jaehyeon.me/blog/2023-01-10-kafka-consumer-seek-offsets/ - How to Configure Kafka Consumers to Seek Offsets by Timestamp
+- https://jaehyeon.me/blog/2023-02-08-simplify-streaming-ingestion-redshift/ - Simplify Streaming Ingestion on AWS – Part 1 MSK and Redshift
+- https://jaehyeon.me/blog/2023-03-14-simplify-streaming-ingestion-athena/ - Simplify Streaming Ingestion on AWS – Part 2 MSK and Athena
+- https://jaehyeon.me/blog/2023-04-12-integrate-glue-schema-registry/ - Integrate Glue Schema Registry With Your Python Kafka App
+- https://jaehyeon.me/blog/2021-12-05-datalake-demo-part1/ - Data Lake Demo Using Change Data Capture (CDC) on AWS – Part 1 Local Development
+- https://jaehyeon.me/blog/2021-12-12-datalake-demo-part2/ - Data Lake Demo Using Change Data Capture (CDC) on AWS – Part 2 Implement CDC
+- https://jaehyeon.me/blog/2021-12-19-datalake-demo-part3/ - Data Lake Demo Using Change Data Capture (CDC) on AWS – Part 3 Implement Data Lake
 
 ## Books
 
