@@ -103,6 +103,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Stencil](https://github.com/odpf/stencil) - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
 - [Meteor](https://github.com/odpf/meteor) - Meteor is a scalable, easy-to-use, extensible metadata collection framework from the different cloud providers and on-prem sources and publish to Kafka.
 - [Logit.io](https://logit.io/sources/configure/kafka) - Logit.io allows you to send logs and metrics from Kafka for centralised monitoring, alerting and analysis.
+- [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 
 - https://github.com/Microsoft/Availability-Monitor-for-Kafka
 - https://github.com/linkedin/Burrow
