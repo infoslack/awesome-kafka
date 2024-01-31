@@ -74,6 +74,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - https://www.manning.com/books/kafka-in-action - A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 - https://www.manning.com/books/kafka-streams-in-action - By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.
 - https://www.manning.com/books/kafka-streams-in-action-second-edition - The book that teaches you to implement stream processing within the Kafka platform.
+- https://www.manning.com/books/streaming-data-pipelines-with-kafka - A book about building reliable data pipelines that can deliver real-time insights from your data.
 
 ## Courses
 
