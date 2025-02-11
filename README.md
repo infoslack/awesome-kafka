@@ -137,7 +137,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Kokpit](https://github.com/daneshzaki/kokpit) Basic Kafka client that does publish subscribe and runs as a Windows application
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) A CLI for Strimzi Kafka Operator
 - [Kowl](https://github.com/cloudhut/kowl) A modern Kafka WebUI written in Go & React
-- [kafka-ui](https://github.com/kafbat/kafka-ui) Free & open-source web UI to monitor and manage Apache Kafka clusters
+- [Kafka UI](https://github.com/kafbat/kafka-ui) Free & open-source web UI to monitor and manage Apache Kafka clusters
 - [Franz](https://franz.defn.io) A native macOS GUI client for Kafka
 - [TypeStream](https://github.com/typestreamio/typestream) Open Source streaming platform. Write and run typed data pipelines with a minimal, familiar syntax. 
 
