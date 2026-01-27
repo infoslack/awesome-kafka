@@ -140,6 +140,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Kafka UI](https://github.com/kafbat/kafka-ui) Free & open-source web UI to monitor and manage Apache Kafka clusters
 - [Franz](https://franz.defn.io) A native macOS GUI client for Kafka
 - [TypeStream](https://github.com/typestreamio/typestream) Open Source streaming platform. Write and run typed data pipelines with a minimal, familiar syntax. 
+- [Klag](https://github.com/themoah/klag) Fast and lightweight Kafka lag exporter, supports OTLP, Prometheus, Datadog and others.
 
 ## Docker Compose
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose
