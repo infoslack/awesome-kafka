@@ -121,6 +121,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Meteor](https://github.com/odpf/meteor) - Meteor is a scalable, easy-to-use, extensible metadata collection framework from the different cloud providers and on-prem sources and publish to Kafka.
 - [Logit.io](https://logit.io/sources/configure/kafka) - Logit.io allows you to send logs and metrics from Kafka for centralised monitoring, alerting and analysis.
 - [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
+- [spring-boot-starter-kafka-ops](https://github.com/AhmedSarie/spring-boot-starter-kafka-ops) - Spring Boot starter with embedded web console and REST API for Kafka message operations — browse, retry, correct, and DLT routing.
 
 - https://github.com/Microsoft/Availability-Monitor-for-Kafka
 - https://github.com/linkedin/Burrow
