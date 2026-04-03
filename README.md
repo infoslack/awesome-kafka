@@ -141,6 +141,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Franz](https://franz.defn.io) A native macOS GUI client for Kafka
 - [TypeStream](https://github.com/typestreamio/typestream) Open Source streaming platform. Write and run typed data pipelines with a minimal, familiar syntax. 
 - [Klag](https://github.com/themoah/klag) Fast and lightweight Kafka lag exporter, supports OTLP, Prometheus, Datadog and others.
+- [klag](https://github.com/closeup1202/klag) - CLI tool to diagnose why Kafka consumer lag is growing   
 
 ## Docker Compose
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose
