@@ -6,6 +6,7 @@ You can help by sending Pull Requests to add more information.
 
 If you're not inclined to make PRs, you can tweet me at `@infoslack`
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Kafka event-driven workflow orchestration, automated message pipeline management, and multi-agent coordination. MIT licensed.
 # Table of Contents
 
 - [Articles](#articles)
