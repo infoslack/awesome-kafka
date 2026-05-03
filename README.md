@@ -144,6 +144,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [TypeStream](https://github.com/typestreamio/typestream) Open Source streaming platform. Write and run typed data pipelines with a minimal, familiar syntax. 
 - [Klag](https://github.com/themoah/klag) Fast and lightweight Kafka lag exporter, supports OTLP, Prometheus, Datadog and others.
 - [klag](https://github.com/closeup1202/klag) - CLI tool to diagnose why Kafka consumer lag is growing   
+- [Kzmlabs StateFun Actors](https://github.com/kzmlabs/flink-statefun) - Stateful actor framework on Apache Flink with first-class Kafka I/O — exactly-once delivery, durable per-key state, and a programming model where each Kafka key becomes an addressable function with its own persisted state.
 
 ## Docker Compose
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose
