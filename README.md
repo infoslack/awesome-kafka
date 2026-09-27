@@ -141,6 +141,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Kowl](https://github.com/cloudhut/kowl) A modern Kafka WebUI written in Go & React
 - [Kafka UI](https://github.com/kafbat/kafka-ui) Free & open-source web UI to monitor and manage Apache Kafka clusters
 - [Franz](https://franz.defn.io) A native macOS GUI client for Kafka
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) Open-source web-based multi-database IDE with a read-only Kafka provider for browsing topics, consumer group lag and brokers, and reading messages by partition, offset or timestamp
 - [TypeStream](https://github.com/typestreamio/typestream) Open Source streaming platform. Write and run typed data pipelines with a minimal, familiar syntax. 
 - [Klag](https://github.com/themoah/klag) Fast and lightweight Kafka lag exporter, supports OTLP, Prometheus, Datadog and others.
 - [klag](https://github.com/closeup1202/klag) - CLI tool to diagnose why Kafka consumer lag is growing   
