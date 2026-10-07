@@ -64,6 +64,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
     * https://jaehyeon.me/blog/2023-07-20-kafka-development-with-docker-part-11/ - Part 11 Kafka Authorization
 
   </details>
+- https://dev.to/kodkodmx/transactional-outbox-idempotent-kafka-consumers-in-spring-boot-4-4np3 - Transactional outbox + idempotent Kafka consumers in Spring Boot 4
 
 ## Books
 
