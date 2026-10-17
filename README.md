@@ -64,6 +64,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
     * https://jaehyeon.me/blog/2023-07-20-kafka-development-with-docker-part-11/ - Part 11 Kafka Authorization
 
   </details>
+- https://app.tbx.ai/tutorials/streaming-systems/delivery-semantics - Delivery Semantics: at-most-once, at-least-once and exactly-once (acks, idempotent producers, offset commits)
 
 ## Books
 
