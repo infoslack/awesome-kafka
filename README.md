@@ -76,6 +76,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - https://www.manning.com/books/kafka-streams-in-action-second-edition - The book that teaches you to implement stream processing within the Kafka platform.
 - https://www.manning.com/books/streaming-data-pipelines-with-kafka - A book about building reliable data pipelines that can deliver real-time insights from your data.
 - https://www.manning.com/books/kafka-for-architects - A book about how to successfully incorporate Kafka into large-scale enterprise architectures.
+- [Kates — The Definitive Guide](https://bmscomp.github.io/kates/) - An in-depth, 23-chapter open-access book covering Kafka queueing theory, tail latency amplification, KRaft quorum mechanics, and chaos engineering runbooks.
 
 ## Courses
 
@@ -145,6 +146,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Klag](https://github.com/themoah/klag) Fast and lightweight Kafka lag exporter, supports OTLP, Prometheus, Datadog and others.
 - [klag](https://github.com/closeup1202/klag) - CLI tool to diagnose why Kafka consumer lag is growing   
 - [Kzmlabs StateFun Actors](https://github.com/kzmlabs/flink-statefun) - Stateful actor framework on Apache Flink with first-class Kafka I/O — exactly-once delivery, durable per-key state, and a programming model where each Kafka key becomes an addressable function with its own persisted state.
+- [Kates](https://github.com/bmscomp/kates) - Performance testing, fault injection, and security auditing suite for Apache Kafka on Kubernetes with virtual-thread load engine, automated broker faults, zero-loss integrity verification, and CI quality gates.
 
 ## Docker Compose
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose
