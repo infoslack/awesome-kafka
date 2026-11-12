@@ -84,6 +84,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Udemy Apache Kafka Series - Kafka Streams for Data Processing](https://goo.gl/bro314) - Intermediate
 - [Udemy Apache Kafka Series - Kafka Cluster Setup & Administration](https://goo.gl/1uYAuU) - Expert
 - [Udemy Apache Kafka Series - Confluent Schema Registry & REST Proxy](https://goo.gl/XgWcVz) - Intermediate
+- [Cloud & SRE Exam Arena - Apache Kafka & Confluent Track](https://fabianimv.github.io/exam-arena/) - Free, open-source interactive study simulator with 60 production and CCDAK scenarios covering KRaft, ISR/High Watermark, EOS transactions, rebalances, and Schema Registry
 
 ## Papers
 
