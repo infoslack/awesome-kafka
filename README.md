@@ -84,6 +84,7 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 - [Udemy Apache Kafka Series - Kafka Streams for Data Processing](https://goo.gl/bro314) - Intermediate
 - [Udemy Apache Kafka Series - Kafka Cluster Setup & Administration](https://goo.gl/1uYAuU) - Expert
 - [Udemy Apache Kafka Series - Confluent Schema Registry & REST Proxy](https://goo.gl/XgWcVz) - Intermediate
+- [The Work Gym Kafka course](https://theworkgym.com/kafka/) - Practice Kafka on a browser cluster: partitions, keyed records, consumer groups, failures, schemas and stream processing. First unit free.
 
 ## Papers
 
